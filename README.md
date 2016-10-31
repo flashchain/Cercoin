@@ -1,0 +1,2 @@
+# Cercoin
+Cercoin full client
